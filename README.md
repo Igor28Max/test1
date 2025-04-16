@@ -11,7 +11,7 @@ NeuroVisionQt/
 │ └── mediapipeModel.py #  Реализация MediaPipe
 │── yolo           # Директория с моделями
 │ └── yolo # Реализация YOLO
-├── plugin.py            # Основное приложение
+├── plugin.py            # Содержит модели которые используются для обработки видео
 └── requirements.txt   # Зависимости
 </pre>
 
